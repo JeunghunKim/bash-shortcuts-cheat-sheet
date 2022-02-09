@@ -9,8 +9,8 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 ### Move cursor
 <table>
 <tr>
-<td>Ctrl + s(custom)</td>
-<td>Go to the beginning of the line (Home)</td>
+<td>Ctrl + s (custom)</td>
+<td>Go to the beginning of the line (Home, custom shortcut)</td>
 </tr>
 <tr>
 <td>Ctrl + e</td>
