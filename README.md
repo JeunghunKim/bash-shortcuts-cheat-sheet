@@ -9,7 +9,7 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 ### Move cursor
 <table>
 <tr>
-<td>Ctrl + a</td>
+<td>Ctrl + s(custom)</td>
 <td>Go to the beginning of the line (Home)</td>
 </tr>
 <tr>
